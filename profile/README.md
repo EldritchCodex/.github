@@ -3,13 +3,21 @@
 # Project Description
 The **EldritchCodex** is a learning project from [RenanBomtempo](https://github.com/renanbomtempo) that explores the engineering, architecture and mathematics behind the development of software for computer graphics and physics simulations for both entertainment and scientific applications.
 
-The project's goal is to develop several modules addressing different application needs.
+The project's goal is to develop several modular tools that can all integrate with a central core framework, following a Host-Plugin architecture.
 
-- **[Nodens](https://github.com/eldritchcodex/nodens)**: core framework containing the applications entry point.
-  -   It provides core utilities such as immediate mode GUI building, multi-threaded job system, pub/sub event system, etc.
-- _Planned_: Vulkan-based real-time renderer.
-- _Planned_: offline ray tracer.
-- _Planned_: multi-physics engine.
+The core is **[Nodens](https://github.com/eldritchcodex/nodens)**, and it handles:
+
+- application entry-point and interactive loop, 
+- pub/sub event system, 
+- multi-threaded job system,
+- cross-platflorm window and input management (GLFW),
+- logging (spdlog),
+- debug GUI (ImGUI).
+
+The currently planned plugins are:
+- **[Nyar](https://github.com/eldritchcodex/nyar)**: a Vulkan-based real-time renderer.
+- **Azath**: a multi-physics engine.
+- **Tindalos**: an offline ray-tracer.
 
 # Main References
 - Akenine-Möller, T., Haines, E., Hoffman, N., Pesce, A., Iwanicki, M., & Hillaire, S. (2019). **Real-time rendering** (Fourth edition, first issued in hardback). CRC Press.
