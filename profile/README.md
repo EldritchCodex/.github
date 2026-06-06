@@ -29,6 +29,7 @@ The currently planned plugins are:
 - Lengyel, E. (2016). **Foundations of game engine development. Volume 1: Mathematics**. Terathon Software LLC.
 - Lengyel, E. (2019). **Foundations of game engine development. Volume 2: Rendering**. Terathon Software LLC.
 - Malhotra, D., & Malhotra, N. (2024). **Data structures and program design using C++: A self-teaching introduction**. Packt Publishing.
+- Marrs, A., Shirley, P., & Wald, I. (Eds.). (2021). **Ray Tracing Gems II: Next Generation Real-Time Rendering with DXR, Vulkan, and OptiX. Apress**. https://doi.org/10.1007/978-1-4842-7185-8
 - The Cherno. (n.d.). **Game Engine Series**. YouTube. Retrieved November 23, 2025, from http://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT
 
 ---
