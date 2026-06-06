@@ -1,5 +1,3 @@
-> "For beyond the veil of our limited understanding there lies an arcane ballet of unseen dimensions."
-
 # Project Description
 The **EldritchCodex** is a learning project from [RenanBomtempo](https://github.com/renanbomtempo) that explores the engineering, architecture and mathematics behind the development of software for computer graphics and physics simulations for both entertainment and scientific applications.
 
@@ -7,12 +5,12 @@ The project's goal is to develop several modular tools that can all integrate wi
 
 The core is **[Nodens](https://github.com/eldritchcodex/nodens)**, and it handles:
 
-- application entry-point and interactive loop, 
+- application interactive loop, 
 - pub/sub event system, 
 - multi-threaded job system,
 - cross-platflorm window and input management (GLFW),
 - logging (spdlog),
-- debug GUI (ImGUI).
+- immediate mode GUI (ImGUI).
 
 The currently planned plugins are:
 - **[Nyar](https://github.com/eldritchcodex/nyar)**: a Vulkan-based real-time renderer.
@@ -32,3 +30,7 @@ The currently planned plugins are:
 - Lengyel, E. (2019). **Foundations of game engine development. Volume 2: Rendering**. Terathon Software LLC.
 - Malhotra, D., & Malhotra, N. (2024). **Data structures and program design using C++: A self-teaching introduction**. Packt Publishing.
 - The Cherno. (n.d.). **Game Engine Series**. YouTube. Retrieved November 23, 2025, from http://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT
+
+---
+
+> "For beyond the veil of our limited understanding there lies an arcane ballet of unseen dimensions."
