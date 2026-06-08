@@ -1,5 +1,5 @@
 # Project Description
-The **EldritchCodex** is a learning project from [RenanBomtempo](https://github.com/renanbomtempo) that explores the engineering, architecture and mathematics behind the development of software for computer graphics and physics simulations for both entertainment and scientific applications.
+The **EldritchCodex** is a learning project from [RenanBomtempo](https://github.com/renanbomtempo) that explores the software engineering, architecture and applied mathematics behind the development of computer graphics and physics simulations software for both entertainment and scientific applications.
 
 The project's goal is to develop several modular tools that can all integrate with a central core framework, following a Host-Plugin architecture.
 
